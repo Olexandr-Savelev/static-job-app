@@ -1,0 +1,13 @@
+@import './variables';
+@import './reset';
+
+html {
+        font-size: $font-size;
+}
+
+body {
+    background-color: $background;
+    font-family: 'League Spartan', sans-serif;
+    font-weight: $font-weight;
+    color: $primary-color;
+}
